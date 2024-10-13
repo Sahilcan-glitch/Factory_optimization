@@ -126,18 +126,18 @@ def main():
     with st.expander("ℹ️ View Linear Programming Problem"):
         st.markdown("""
         **Objective Function:**
-        \[
-        \text{Maximize } Z = 40x + 30y
-        \]
+        
+        Maximize Z = 40x + 30y
+        
         
         **Subject to:**
-        \[
-        \begin{cases}
-        x + y \leq \text{Maximum Running Hours} \\
-        2x + y \leq \text{Maximum Emissions} \\
-        x \geq 0, \ y \geq 0
-        \end{cases}
-        \]
+        
+        
+        x + y  Maximum Running Hours
+        2x + y Maximum Emissions
+        
+        
+        
         
         Where:
         - \( x \): Hours for Production Line P1
