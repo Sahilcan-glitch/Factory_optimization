@@ -147,8 +147,8 @@ def main():
     # Footer
     st.markdown("---")
     st.markdown("""
-    **Developed by:** Your Name  
-    **Contact:** [your.email@example.com](mailto:your.email@example.com)
+    **Developed by:** Sahil Khan  
+    **Contact:** [sahilcan1@gmail.com](mailto:sahilcan1@gmail.com)
     """)
 
 if __name__ == "__main__":
